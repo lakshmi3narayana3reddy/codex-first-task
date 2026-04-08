@@ -1,0 +1,1 @@
+print("first code for git and github practice")
